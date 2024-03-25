@@ -1,0 +1,542 @@
+  [
+  {
+    "MealName": "Jollof Rice",
+    "ThumbNail": "https://cookwithkemi.com/wp-content/uploads/2018/07/jollof-rice-image.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 2800,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 2000,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 1200,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Pounded Yam",
+    "ThumbNail": "https://i.imgur.com/GsorrZA.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 3500,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 2500,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 2000,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Pepper Soup",
+    "ThumbNail": "https://i.imgur.com/iH2ZY4r.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 4500,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 3000,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 2000,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Efo Riro",
+    "ThumbNail": "https://i.imgur.com/03qPcDn.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 2450,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 1800,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 1200,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Akara and Pap",
+    "ThumbNail": "https://i.imgur.com/7jyCYG7.png?1",
+    "MealPrices": [
+      {
+        "PriceDetail": 1700,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 1000,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 600,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Plantain",
+    "ThumbNail": "https://i.imgur.com/V6oend1.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 1200,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 800,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 500,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Ewa Agoyin",
+    "ThumbNail": "https://i.imgur.com/WrrZRxf.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 3500,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 2500,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 1500,
+        "TypeOfTable": 2
+      }
+    ]
+  },
+  {
+    "MealName": "Ofada Rice",
+    "ThumbNail": "https://4.bp.blogspot.com/-m9ZTyTKl3mw/W12rxQXtofI/AAAAAAAAZPc/ZVBxEXiU190_Zs95ZjLQGueH5mfKUoj_gCLcBGAs/w600-h315-p-k-no-nu/Ofada-1.png",
+    "MealPrices": [
+      {
+        "PriceDetail": 3400,
+        "TypeOfTable": 0
+      },
+      {
+        "PriceDetail": 2700,
+        "TypeOfTable": 1
+      },
+      {
+        "PriceDetail": 1400,
+        "TypeOfTable": 2
+      }
+    ]
+  }
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2447.24,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 3395.92,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2195.24,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3938.35,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 2691.28,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2409.75,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1609.04,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 1037.19,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 1312.81,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2228.78,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 1734.53,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 1193.9,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3680.67,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 3549.24,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2325.92,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3660.57,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3709.08,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2488.74,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1017.53,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3962.24,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3961.77,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2936.4,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 1346.6,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 3211.25,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3878.89,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 2388.36,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 1065.79,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1503.64,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 1789.18,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 1780.93,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1066.04,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 2946.64,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 3088.9,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3517.96,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2585.83,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 3943.94,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1011,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 3235.03,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3956.91,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2755.94,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 3041.75,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 1644.88,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2585.23,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2279.21,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 2439.46,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2985.52,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 1485.08,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 1537.15,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1919.82,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 3772.23,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 1577.25,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2317.43,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3751.45,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3532.18,
+  //      "TypeOfTable": 1
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "AMALA",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1006.55,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 3877.93,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 1074.42,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 2680.57,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 1280.8,
+  //      "TypeOfTable": 2
+  //    },
+  //    {
+  //      "PriceDetail": 2581.08,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "RICE",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 3414.89,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 3466.34,
+  //      "TypeOfTable": 1
+  //    },
+  //    {
+  //      "PriceDetail": 3657.27,
+  //      "TypeOfTable": 2
+  //    }
+  //  ]
+  //},
+  //{
+  //  "MealName": "EWEDU",
+  //  "ThumbNail": "",
+  //  "MealPrices": [
+  //    {
+  //      "PriceDetail": 1529.72,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 2324.21,
+  //      "TypeOfTable": 0
+  //    },
+  //    {
+  //      "PriceDetail": 1051.8,
+  //      "TypeOfTable": 0
+  //    }
+  //  ]
+  //}
+]
